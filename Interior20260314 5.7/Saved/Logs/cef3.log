@@ -1,0 +1,7 @@
+[78808:78776:0613/093941.997:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[78628:78632:0613/093941.997:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[78628:78632:0613/093942.338:ERROR:main_runner.cc(122)] ContentMainRun failed with exit code 21
+[78808:78776:0613/093947.628:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[78704:79492:0613/094028.431:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1597F9C0EE7CEE54A26691CC5DD1D7BE will be ignored
+[78808:78776:0613/094028.686:ERROR:device_event_log_impl.cc(196)] [09:40:28.035] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[78808:78776:0613/094634.928:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

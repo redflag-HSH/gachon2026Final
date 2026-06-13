@@ -1,0 +1,10 @@
+[42820:49792:0612/115543.627:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[42820:49792:0612/115543.720:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[42820:49792:0612/115606.452:ERROR:device_event_log_impl.cc(196)] [11:56:06.224] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[59056:59264:0612/115606.510:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3C8A76F30A6AD14CD04D460ACECC171E will be ignored
+[42820:49792:0612/122046.353:ERROR:device_event_log_impl.cc(196)] [12:20:46.350] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[42820:49792:0612/122046.464:ERROR:device_event_log_impl.cc(196)] [12:20:46.430] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+[42820:49792:0612/122046.543:ERROR:device_event_log_impl.cc(196)] [12:20:46.517] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+[42820:49792:0612/143418.821:ERROR:device_event_log_impl.cc(196)] [14:34:18.804] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[42820:49792:0612/143425.120:ERROR:device_event_log_impl.cc(196)] [14:34:24.956] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[42820:49792:0612/151259.233:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

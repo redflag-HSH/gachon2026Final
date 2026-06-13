@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Interior20260314.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Interior20260314.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Interior20260314Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\Interior20260314">
+      <UniqueIdentifier>{58764853-E713-3113-BD5E-A4574A47AF4C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Interior20260314\Enemy">
+      <UniqueIdentifier>{F6C2338E-4811-3362-B2D1-6B953FC22CAC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Interior20260314\Enemy\BossCharacter.cpp">
+      <Filter>Source\Interior20260314\Enemy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Interior20260314\Enemy\BossCharacter.h">
+      <Filter>Source\Interior20260314\Enemy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Interior20260314\Enemy\EnemyCharacter.cpp">
+      <Filter>Source\Interior20260314\Enemy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Interior20260314\Enemy\EnemyCharacter.h">
+      <Filter>Source\Interior20260314\Enemy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Interior20260314\Enemy\EnemyManager.cpp">
+      <Filter>Source\Interior20260314\Enemy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Interior20260314\Enemy\EnemyManager.h">
+      <Filter>Source\Interior20260314\Enemy</Filter>
+    </ClInclude>
+    <Filter Include="Source\Interior20260314\GameMode">
+      <UniqueIdentifier>{98BF865F-3F32-31DD-BB99-A6391376FEF7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Interior20260314\GameMode\Interior20260314GameMode.cpp">
+      <Filter>Source\Interior20260314\GameMode</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Interior20260314\GameMode\Interior20260314GameMode.h">
+      <Filter>Source\Interior20260314\GameMode</Filter>
+    </ClInclude>
+    <Filter Include="Source\Interior20260314\Gameplay">
+      <UniqueIdentifier>{33C4C22C-1205-3FF2-A3B0-3610722B0328}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Interior20260314\Gameplay\Bullet.cpp">
+      <Filter>Source\Interior20260314\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Interior20260314\Gameplay\Bullet.h">
+      <Filter>Source\Interior20260314\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Interior20260314\Gameplay\Item.cpp">
+      <Filter>Source\Interior20260314\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Interior20260314\Gameplay\Item.h">
+      <Filter>Source\Interior20260314\Gameplay</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Interior20260314\Interior20260314.Build.cs">
+      <Filter>Source\Interior20260314</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Interior20260314\Interior20260314.cpp">
+      <Filter>Source\Interior20260314</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Interior20260314\Interior20260314.h">
+      <Filter>Source\Interior20260314</Filter>
+    </ClInclude>
+    <Filter Include="Source\Interior20260314\Player">
+      <UniqueIdentifier>{7FCAE82F-FCA6-32E4-8D68-BA19B8EAC421}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Interior20260314\Player\PlayerCharacter.cpp">
+      <Filter>Source\Interior20260314\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Interior20260314\Player\PlayerCharacter.h">
+      <Filter>Source\Interior20260314\Player</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

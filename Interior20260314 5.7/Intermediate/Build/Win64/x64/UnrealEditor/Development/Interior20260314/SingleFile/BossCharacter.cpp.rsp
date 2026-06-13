@@ -1,0 +1,52 @@
+"C:/Users/MS/Documents/GitHub/Interior20260314 5.7/Source/Interior20260314/Enemy/BossCharacter.cpp"
+@"C:/Users/MS/Documents/GitHub/Interior20260314 5.7/Intermediate/Build/Win64/x64/UnrealEditor/Development/Interior20260314/Interior20260314.Shared.rsp"
+/FI"C:/Users/MS/Documents/GitHub/Interior20260314 5.7/Intermediate/Build/Win64/x64/UnrealEditor/Development/Interior20260314/Definitions.Interior20260314.h"
+/Fo"C:/Users/MS/Documents/GitHub/Interior20260314 5.7/Intermediate/Build/Win64/x64/UnrealEditor/Development/Interior20260314/SingleFile/BossCharacter.cpp.obj"
+/sourceDependencies "C:/Users/MS/Documents/GitHub/Interior20260314 5.7/Intermediate/Build/Win64/x64/UnrealEditor/Development/Interior20260314/SingleFile/BossCharacter.cpp.dep.json"
+/d2ssa-cfg-question-
+/nologo
+/Oi
+/FC
+/diagnostics:caret
+/c
+/Gw
+/Gy
+/utf-8
+/wd4819
+/DSAL_NO_ATTRIBUTE_DECLARATIONS=1
+/permissive-
+/Zc:strictStrings-
+/Zc:__cplusplus
+/Zc:inline
+/Zc:preprocessor
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/D_WINDLL
+/D_DISABLE_EXTENDED_ALIGNED_STORAGE
+/Ob2
+/d2ExtendedWarningInfo
+/Ox
+/Ot
+/GF
+/errorReport:prompt
+/EHsc
+/DPLATFORM_EXCEPTIONS_DISABLED=0
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zo
+/Zp8
+/W4
+/we4456
+/we4458
+/we4459
+/wd4244
+/wd4838
+/we4668
+/wd4267
+/wd4100
+/TP
+/GR-
+/std:c++20
+/wd5054

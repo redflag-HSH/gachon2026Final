@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ms\\documents\\github\\interior20260314 5.7\\source\\interior20260314\\gameplay\\item.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ms\\documents\\github\\interior20260314 5.7\\intermediate\\build\\win64\\x64\\interior20260314editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ms\\documents\\github\\interior20260314 5.7\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\interior20260314\\definitions.interior20260314.h",
+            "c:\\users\\ms\\documents\\github\\interior20260314 5.7\\source\\interior20260314\\gameplay\\item.h",
+            "c:\\users\\ms\\documents\\github\\interior20260314 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\interior20260314\\uht\\item.generated.h",
+            "c:\\users\\ms\\documents\\github\\interior20260314 5.7\\source\\interior20260314\\player\\playercharacter.h",
+            "c:\\users\\ms\\documents\\github\\interior20260314 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\interior20260314\\uht\\playercharacter.generated.h",
+            "c:\\users\\ms\\documents\\github\\interior20260314 5.7\\source\\interior20260314\\gamemode\\interior20260314gamemode.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\ms\\documents\\github\\interior20260314 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\interior20260314\\uht\\interior20260314gamemode.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

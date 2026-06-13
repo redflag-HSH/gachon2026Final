@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Interior20260314",
+			"Path": "..\\Source\\Interior20260314.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Interior20260314Editor",
+			"Path": "..\\Source\\Interior20260314Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

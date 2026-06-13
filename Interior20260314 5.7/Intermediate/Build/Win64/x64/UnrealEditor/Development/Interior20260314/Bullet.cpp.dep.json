@@ -1,0 +1,34 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ms\\documents\\github\\interior20260314 5.7\\source\\interior20260314\\gameplay\\bullet.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ms\\documents\\github\\interior20260314 5.7\\intermediate\\build\\win64\\x64\\interior20260314editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ms\\documents\\github\\interior20260314 5.7\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\interior20260314\\definitions.interior20260314.h",
+            "c:\\users\\ms\\documents\\github\\interior20260314 5.7\\source\\interior20260314\\gameplay\\bullet.h",
+            "c:\\users\\ms\\documents\\github\\interior20260314 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\interior20260314\\uht\\bullet.generated.h",
+            "c:\\users\\ms\\documents\\github\\interior20260314 5.7\\source\\interior20260314\\enemy\\enemycharacter.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\net\\iris\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\ms\\documents\\github\\interior20260314 5.7\\intermediate\\build\\win64\\unrealeditor\\inc\\interior20260314\\uht\\enemycharacter.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\projectilemovementcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

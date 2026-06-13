@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Interior20260314.gen.cpp.obj": [
+			"BossCharacter.gen.cpp.obj",
+			"Bullet.gen.cpp.obj",
+			"EnemyCharacter.gen.cpp.obj",
+			"EnemyManager.gen.cpp.obj",
+			"Interior20260314.init.gen.cpp.obj",
+			"Interior20260314GameMode.gen.cpp.obj",
+			"Item.gen.cpp.obj",
+			"PlayerCharacter.gen.cpp.obj"
+		]
+	}
+}

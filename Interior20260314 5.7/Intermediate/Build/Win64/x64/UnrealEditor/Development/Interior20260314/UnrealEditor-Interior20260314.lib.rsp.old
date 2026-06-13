@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Interior20260314.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/MS/Documents/GitHub/Interior20260314 5.7/Intermediate/Build/Win64/x64/Interior20260314Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/MS/Documents/GitHub/Interior20260314 5.7/Intermediate/Build/Win64/x64/UnrealEditor/Development/Interior20260314/Module.Interior20260314.gen.cpp.obj"
+"C:/Users/MS/Documents/GitHub/Interior20260314 5.7/Intermediate/Build/Win64/x64/UnrealEditor/Development/Interior20260314/Interior20260314.cpp.obj"
+"C:/Users/MS/Documents/GitHub/Interior20260314 5.7/Intermediate/Build/Win64/x64/UnrealEditor/Development/Interior20260314/BossCharacter.cpp.obj"
+"C:/Users/MS/Documents/GitHub/Interior20260314 5.7/Intermediate/Build/Win64/x64/UnrealEditor/Development/Interior20260314/EnemyCharacter.cpp.obj"
+"C:/Users/MS/Documents/GitHub/Interior20260314 5.7/Intermediate/Build/Win64/x64/UnrealEditor/Development/Interior20260314/EnemyManager.cpp.obj"
+"C:/Users/MS/Documents/GitHub/Interior20260314 5.7/Intermediate/Build/Win64/x64/UnrealEditor/Development/Interior20260314/Interior20260314GameMode.cpp.obj"
+"C:/Users/MS/Documents/GitHub/Interior20260314 5.7/Intermediate/Build/Win64/x64/UnrealEditor/Development/Interior20260314/Bullet.cpp.obj"
+"C:/Users/MS/Documents/GitHub/Interior20260314 5.7/Intermediate/Build/Win64/x64/UnrealEditor/Development/Interior20260314/Item.cpp.obj"
+"C:/Users/MS/Documents/GitHub/Interior20260314 5.7/Intermediate/Build/Win64/x64/UnrealEditor/Development/Interior20260314/PlayerCharacter.cpp.obj"
+"C:/Users/MS/Documents/GitHub/Interior20260314 5.7/Intermediate/Build/Win64/x64/UnrealEditor/Development/Interior20260314/PerModuleInline.gen.cpp.obj"
+"C:/Users/MS/Documents/GitHub/Interior20260314 5.7/Intermediate/Build/Win64/x64/UnrealEditor/Development/Interior20260314/Default.rc2.res"
+/OUT:"C:/Users/MS/Documents/GitHub/Interior20260314 5.7/Intermediate/Build/Win64/x64/UnrealEditor/Development/Interior20260314/UnrealEditor-Interior20260314.lib"
